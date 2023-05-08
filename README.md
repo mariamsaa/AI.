@@ -1,1 +1,1 @@
-# AI.
+# puzzle game
